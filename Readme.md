@@ -2,7 +2,7 @@
 
 Aplicação Básica criada no intuito de através de um pequeno formulário um usuário consigo acompanhar seu crecimento de taxa basal, tendo como resultado o quanto pode consumir de calorias para aumentar ou manter o peso.
 
-![](/assets/images/telainicial.png)
+![Tela Inicial](/assets/images/telainicial.png?raw=true "Tela do App")
 
 ## Install
 
